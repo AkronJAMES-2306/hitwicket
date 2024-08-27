@@ -27,7 +27,7 @@ This project is a multiplayer web-based game where two players control character
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/AkronJAMES-2306/hitwicket.git
     ```
 2. Navigate to the project directory:
     ```bash

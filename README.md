@@ -20,7 +20,7 @@ This project is a multiplayer web-based game where two players control character
 - **Styling**: CSS Grid for layout
 
 ## Getting Started
-    For now, please open two tabs of the same localhost and the game can be properly played on the second localhot.
+    For now, please open two tabs of the same localhost and the game can be properly played on the second localhost.
 ### Prerequisites
 - Node.js and npm installed
 

@@ -1,4 +1,4 @@
-#My introduction
+##My introduction
 I am Arvind venkat Ramanan
 21BCE1160, VIT Chennai
 
@@ -29,11 +29,7 @@ This project is a multiplayer web-based game where two players control character
     ```bash
     git clone https://github.com/AkronJAMES-2306/hitwicket.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-3. Install the dependencies:
+2. Install the dependencies:
     ```bash
     npm install
     ```
